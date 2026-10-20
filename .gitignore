@@ -1,0 +1,11 @@
+# Entorno virtual
+stream_train/
+.venv/
+
+# Llaves y secretos
+.env
+.streamlit/secrets.toml
+
+# Archivos del sistema
+.DS_Store
+__pycache__/
